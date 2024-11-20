@@ -7,6 +7,7 @@ hello world
 hello man
 we are waiting for you
 The capital of bangladesh is Dhaka.
+<<<<<<< HEAD
 ssh key
 
 
@@ -17,3 +18,6 @@ Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country 
 about Dhaka
 Dhaka is the capital city of Bangladesh, in southern Asia. Set beside the Buriganga River, it’s at the center of national government, trade and culture
 
+=======
+ssh key
+>>>>>>> 053e20b (commit five)
